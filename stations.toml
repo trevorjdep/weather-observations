@@ -1,0 +1,38 @@
+# The weather stations to collect, by the id NWS publishes their observations under (MADIS).
+# Adding one is a one-line change; its history starts from the earliest reading NWS still serves.
+
+[[station]]
+id = "CWLW1"
+name = "Coldwater Ridge"
+
+[[station]]
+id = "CYFW1"
+name = "Canyon Creek"
+
+[[station]]
+id = "EKRW1"
+name = "Elk Rock"
+
+[[station]]
+id = "GVT50"
+name = "Skibowl Summit"
+
+[[station]]
+id = "MHM54"
+name = "Meadows Base"
+
+[[station]]
+id = "MHM66"
+name = "Meadows Blue"
+
+[[station]]
+id = "MHM73"
+name = "Meadows Cascade Express"
+
+[[station]]
+id = "TIM59"
+name = "Timberline Lodge"
+
+[[station]]
+id = "TIM70"
+name = "Timberline Magic Mile"
