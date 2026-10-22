@@ -27,6 +27,9 @@ earliest reading NWS still serves.
 
 ## The schedule and the 60-day rule
 
+The workflow is scheduled three times an hour (at :07, :27 and :47) because GitHub drops many scheduled runs; each run only
+appends readings it has not kept, so the extra runs cost nothing and an hour is rarely missed.
+
 GitHub disables scheduled workflows in public repositories after 60 days without repository activity. Each run ends with
 `gh workflow enable collect.yml`, which re-enables the workflow through the REST API and restarts that clock without
 making commits. If the schedule is ever disabled anyway (Actions tab shows it), run the workflow once by hand.
