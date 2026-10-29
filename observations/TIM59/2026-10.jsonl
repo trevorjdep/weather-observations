@@ -197,3 +197,7 @@
 {"timestamp":"2026-10-28T16:00:00+00:00"}
 {"timestamp":"2026-10-28T17:00:00+00:00"}
 {"timestamp":"2026-10-28T18:00:00+00:00"}
+{"timestamp":"2026-10-28T20:00:00+00:00"}
+{"timestamp":"2026-10-28T22:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":-1.24,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":100,"qualityControl":"V"}}
+{"timestamp":"2026-10-28T23:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":-1.61,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":100,"qualityControl":"V"}}
+{"timestamp":"2026-10-29T00:00:00+00:00"}
