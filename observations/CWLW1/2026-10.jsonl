@@ -225,3 +225,10 @@
 {"timestamp":"2026-10-30T06:15:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":23.976,"qualityControl":"V"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":295,"qualityControl":"V"}}
 {"timestamp":"2026-10-30T07:15:00+00:00","windGust":{"unitCode":"wmoUnit:km_h-1","value":76.104,"qualityControl":"S"}}
 {"timestamp":"2026-10-30T08:15:00+00:00","windGust":{"unitCode":"wmoUnit:km_h-1","value":100.908,"qualityControl":"S"}}
+{"timestamp":"2026-10-30T09:15:00+00:00","windGust":{"unitCode":"wmoUnit:km_h-1","value":78.228,"qualityControl":"S"}}
+{"timestamp":"2026-10-30T10:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":7.39,"qualityControl":"V"},"windSpeed":{"unitCode":"wmoUnit:km_h-1","value":23.976,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":64.872,"qualityControl":"S"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":227,"qualityControl":"V"}}
+{"timestamp":"2026-10-30T11:15:00+00:00","windGust":{"unitCode":"wmoUnit:km_h-1","value":71.928,"qualityControl":"S"}}
+{"timestamp":"2026-10-30T12:15:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":21.24,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":71.784,"qualityControl":"S"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":335,"qualityControl":"V"}}
+{"timestamp":"2026-10-30T13:15:00+00:00","windGust":{"unitCode":"wmoUnit:km_h-1","value":78.552,"qualityControl":"S"}}
+{"timestamp":"2026-10-30T14:15:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":19.8,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":46.044,"qualityControl":"S"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":313,"qualityControl":"V"}}
+{"timestamp":"2026-10-30T15:15:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":15.768,"qualityControl":"V"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":289,"qualityControl":"V"}}
