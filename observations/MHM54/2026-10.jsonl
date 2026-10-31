@@ -262,3 +262,5 @@
 {"timestamp":"2026-10-31T15:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":-2.27,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":89.781276530415,"qualityControl":"V"}}
 {"timestamp":"2026-10-31T16:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":-1.13,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":88.878796803144,"qualityControl":"V"}}
 {"timestamp":"2026-10-31T17:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":1.19,"qualityControl":"S"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":76.466433247127,"qualityControl":"S"}}
+{"timestamp":"2026-10-31T18:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":1.63,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":78.712919361421,"qualityControl":"V"}}
+{"timestamp":"2026-10-31T19:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":3.25,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":77.147628372973,"qualityControl":"V"}}
