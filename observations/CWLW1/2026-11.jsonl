@@ -42,3 +42,7 @@
 {"timestamp":"2026-11-02T20:15:00+00:00"}
 {"timestamp":"2026-11-02T21:15:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":26.892,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":48.456,"qualityControl":"S"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":301,"qualityControl":"V"}}
 {"timestamp":"2026-11-02T22:15:00+00:00","windGust":{"unitCode":"wmoUnit:km_h-1","value":49.896,"qualityControl":"S"}}
+{"timestamp":"2026-11-02T23:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":5.42,"qualityControl":"V"},"windSpeed":{"unitCode":"wmoUnit:km_h-1","value":19.944,"qualityControl":"V"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":334,"qualityControl":"V"}}
+{"timestamp":"2026-11-03T00:15:00+00:00"}
+{"timestamp":"2026-11-03T01:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":4.76,"qualityControl":"V"},"windSpeed":{"unitCode":"wmoUnit:km_h-1","value":17.208,"qualityControl":"V"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":328,"qualityControl":"V"}}
+{"timestamp":"2026-11-03T02:15:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":17.064,"qualityControl":"V"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":232,"qualityControl":"V"}}
