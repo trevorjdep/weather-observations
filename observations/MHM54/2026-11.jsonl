@@ -45,3 +45,12 @@
 {"timestamp":"2026-11-03T00:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":4.06,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":58.818994281807,"qualityControl":"V"}}
 {"timestamp":"2026-11-03T01:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":3.01,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":65.151409044641,"qualityControl":"V"}}
 {"timestamp":"2026-11-03T02:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":3.19,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":66.608429409675,"qualityControl":"V"}}
+{"timestamp":"2026-11-03T03:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":3.43,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":66.563363145833,"qualityControl":"V"}}
+{"timestamp":"2026-11-03T04:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":3,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":69.945084061581,"qualityControl":"V"}}
+{"timestamp":"2026-11-03T05:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":3.13,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":65.664226428465,"qualityControl":"V"}}
+{"timestamp":"2026-11-03T06:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":3.32,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":60.455733003269,"qualityControl":"V"}}
+{"timestamp":"2026-11-03T07:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":3.33,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":62.428576774728,"qualityControl":"V"}}
+{"timestamp":"2026-11-03T08:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":3.44,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":62.223297076545,"qualityControl":"V"}}
+{"timestamp":"2026-11-03T09:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":3.87,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":61.5005979946,"qualityControl":"V"}}
+{"timestamp":"2026-11-03T10:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":3.59,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":65.284291160836,"qualityControl":"V"}}
+{"timestamp":"2026-11-03T11:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":3.36,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":76.051239191891,"qualityControl":"V"}}
