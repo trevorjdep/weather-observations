@@ -153,3 +153,5 @@
 {"timestamp":"2026-11-07T20:15:00+00:00"}
 {"timestamp":"2026-11-07T21:15:00+00:00"}
 {"timestamp":"2026-11-07T22:15:00+00:00","windGust":{"unitCode":"wmoUnit:km_h-1","value":74.52,"qualityControl":"S"}}
+{"timestamp":"2026-11-07T23:15:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":22.536,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":81.108,"qualityControl":"S"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":222,"qualityControl":"V"}}
+{"timestamp":"2026-11-08T01:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":7.64,"qualityControl":"V"}}
