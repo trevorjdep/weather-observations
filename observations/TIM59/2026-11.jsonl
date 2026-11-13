@@ -252,3 +252,10 @@
 {"timestamp":"2026-11-13T05:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":8.77,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":38.178056522294,"qualityControl":"V"}}
 {"timestamp":"2026-11-13T06:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":8.3,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":41.324710857769,"qualityControl":"V"}}
 {"timestamp":"2026-11-13T07:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":7.81,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":44.618987318343,"qualityControl":"V"}}
+{"timestamp":"2026-11-13T09:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":6.12,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":54.972029098579,"qualityControl":"V"}}
+{"timestamp":"2026-11-13T10:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":5.31,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":60.414865804113,"qualityControl":"V"}}
+{"timestamp":"2026-11-13T11:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":4.93,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":64.258231039947,"qualityControl":"V"}}
+{"timestamp":"2026-11-13T12:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":5.12,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":64.963927728027,"qualityControl":"V"}}
+{"timestamp":"2026-11-13T13:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":4.75,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":68.135803830724,"qualityControl":"V"}}
+{"timestamp":"2026-11-13T14:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":4.6,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":69.407082898525,"qualityControl":"V"}}
+{"timestamp":"2026-11-13T15:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":4.24,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":73.224470154201,"qualityControl":"V"}}
