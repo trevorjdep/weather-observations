@@ -282,3 +282,5 @@
 {"timestamp":"2026-11-14T16:52:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":6.11,"qualityControl":"V"},"windSpeed":{"unitCode":"wmoUnit:km_h-1","value":8.028,"qualityControl":"V"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":175,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":100,"qualityControl":"V"}}
 {"timestamp":"2026-11-14T18:52:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":9.648,"qualityControl":"V"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":175,"qualityControl":"V"}}
 {"timestamp":"2026-11-14T19:52:00+00:00"}
+{"timestamp":"2026-11-14T21:52:00+00:00"}
+{"timestamp":"2026-11-14T22:52:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":7.22,"qualityControl":"V"},"windSpeed":{"unitCode":"wmoUnit:km_h-1","value":8.028,"qualityControl":"V"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":161,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":99.04650964023,"qualityControl":"V"}}
