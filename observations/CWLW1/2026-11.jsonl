@@ -311,3 +311,11 @@
 {"timestamp":"2026-11-15T03:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":7.58,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":84.816,"qualityControl":"S"}}
 {"timestamp":"2026-11-15T04:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":7.11,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":84.816,"qualityControl":"S"}}
 {"timestamp":"2026-11-15T05:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":8.65,"qualityControl":"V"},"windSpeed":{"unitCode":"wmoUnit:km_h-1","value":24.3,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":48.456,"qualityControl":"S"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":207,"qualityControl":"V"}}
+{"timestamp":"2026-11-15T06:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":9.36,"qualityControl":"V"}}
+{"timestamp":"2026-11-15T07:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":9.95,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":84.024,"qualityControl":"C"}}
+{"timestamp":"2026-11-15T08:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":10.02,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":87.696,"qualityControl":"S"}}
+{"timestamp":"2026-11-15T09:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":10.02,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":116.028,"qualityControl":"S"}}
+{"timestamp":"2026-11-15T10:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":10.02,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":95.904,"qualityControl":"S"}}
+{"timestamp":"2026-11-15T11:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":10.02,"qualityControl":"V"},"windSpeed":{"unitCode":"wmoUnit:km_h-1","value":23.328,"qualityControl":"V"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":130,"qualityControl":"V"}}
+{"timestamp":"2026-11-15T12:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":10.02,"qualityControl":"V"}}
+{"timestamp":"2026-11-15T13:15:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":10.02,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":68.544,"qualityControl":"S"}}
