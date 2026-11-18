@@ -387,3 +387,7 @@
 {"timestamp":"2026-11-18T13:15:00+00:00"}
 {"timestamp":"2026-11-18T14:15:00+00:00"}
 {"timestamp":"2026-11-18T15:15:00+00:00","windGust":{"unitCode":"wmoUnit:km_h-1","value":110.088,"qualityControl":"S"}}
+{"timestamp":"2026-11-18T17:15:00+00:00","windGust":{"unitCode":"wmoUnit:km_h-1","value":80.964,"qualityControl":"C"}}
+{"timestamp":"2026-11-18T18:15:00+00:00"}
+{"timestamp":"2026-11-18T19:15:00+00:00","windGust":{"unitCode":"wmoUnit:km_h-1","value":109.116,"qualityControl":"C"}}
+{"timestamp":"2026-11-18T20:15:00+00:00"}
