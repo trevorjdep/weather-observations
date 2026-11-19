@@ -396,3 +396,11 @@
 {"timestamp":"2026-11-19T01:15:00+00:00","windGust":{"unitCode":"wmoUnit:km_h-1","value":66.96,"qualityControl":"S"}}
 {"timestamp":"2026-11-19T02:15:00+00:00","windGust":{"unitCode":"wmoUnit:km_h-1","value":66.636,"qualityControl":"S"}}
 {"timestamp":"2026-11-19T03:15:00+00:00"}
+{"timestamp":"2026-11-19T04:15:00+00:00"}
+{"timestamp":"2026-11-19T05:15:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":11.916,"qualityControl":"V"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":335,"qualityControl":"V"}}
+{"timestamp":"2026-11-19T06:15:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":11.736,"qualityControl":"V"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":9,"qualityControl":"V"}}
+{"timestamp":"2026-11-19T08:15:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":9.18,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":12.564,"qualityControl":"C"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":17,"qualityControl":"V"}}
+{"timestamp":"2026-11-19T09:15:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":6.912,"qualityControl":"V"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":53,"qualityControl":"V"}}
+{"timestamp":"2026-11-19T10:15:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":7.74,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":8.676,"qualityControl":"S"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":17,"qualityControl":"V"}}
+{"timestamp":"2026-11-19T11:15:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":7.092,"qualityControl":"V"},"windGust":{"unitCode":"wmoUnit:km_h-1","value":8.208,"qualityControl":"S"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":37,"qualityControl":"V"}}
+{"timestamp":"2026-11-19T12:15:00+00:00","windSpeed":{"unitCode":"wmoUnit:km_h-1","value":10.476,"qualityControl":"V"},"windDirection":{"unitCode":"wmoUnit:degree_(angle)","value":46,"qualityControl":"V"}}
