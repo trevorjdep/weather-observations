@@ -472,3 +472,12 @@
 {"timestamp":"2026-11-24T07:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":-2.22,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":87.332042892241,"qualityControl":"V"}}
 {"timestamp":"2026-11-24T08:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":-1.17,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":93.117175021675,"qualityControl":"V"}}
 {"timestamp":"2026-11-24T09:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":-0.27,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":92.012433011486,"qualityControl":"V"}}
+{"timestamp":"2026-11-24T10:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":-1.18,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":92.090607658409,"qualityControl":"V"}}
+{"timestamp":"2026-11-24T12:00:00+00:00"}
+{"timestamp":"2026-11-24T13:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":-1.17,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":85.759499957693,"qualityControl":"V"}}
+{"timestamp":"2026-11-24T14:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":-0.64,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":77.016662157178,"qualityControl":"V"}}
+{"timestamp":"2026-11-24T15:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":0.09,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":68.661659127184,"qualityControl":"V"}}
+{"timestamp":"2026-11-24T16:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":-0.05,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":67.907841022031,"qualityControl":"V"}}
+{"timestamp":"2026-11-24T17:00:00+00:00"}
+{"timestamp":"2026-11-24T18:00:00+00:00","temperature":{"unitCode":"wmoUnit:degC","value":-0.33,"qualityControl":"V"},"relativeHumidity":{"unitCode":"wmoUnit:percent","value":71.055252843107,"qualityControl":"V"}}
+{"timestamp":"2026-11-24T19:00:00+00:00"}
